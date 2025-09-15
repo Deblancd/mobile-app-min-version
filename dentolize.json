@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "minVersion": "3.0.3",
+    "currentVersion": "3.0.3",
+    "forceUpdate": true
+  },
+  "android": {
+    "minVersion": "3.0.3", 
+    "currentVersion": "3.0.3",
+    "forceUpdate": true
+  }
+}
