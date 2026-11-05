@@ -1,10 +1,10 @@
 {
   "ios": {
     "minVersion": "3.0.3",
-    "currentVersion": "3.0.3"
+    "currentVersion": "3.0.36"
   },
   "android": {
     "minVersion": "3.0.3", 
-    "currentVersion": "3.0.3"
+    "currentVersion": "3.0.36"
   }
 }
